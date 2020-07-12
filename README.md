@@ -5,7 +5,7 @@ I'm Fanilo, and my work [@Worldline](https://worldline.com/) involves a mix of A
 #### Current goals
 
 * ✨ &nbsp; To continuously learn Data Science, frontend web development and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise
-* 🙃 &nbsp; Right now I'm probably [building](https://github.com/andfanilo/streamlit-echarts) [Streamlit](https://github.com/andfanilo/streamlit-drawable-canvas) [Components](https://github.com/andfanilo/streamlit-d3-demo) to ease the work of Data Scientists, and I'm open to ideas/requests !
+* 🙃 &nbsp; Right now I'm probably [building](https://github.com/andfanilo/streamlit-echarts) [Streamlit](https://github.com/andfanilo/streamlit-drawable-canvas) [Components](https://github.com/andfanilo/streamlit-d3-demo) to ease the work of Data Scientists, and **I'm open to ideas/requests !**
 
 #### My activities
 
