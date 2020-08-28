@@ -4,7 +4,7 @@ I'm Fanilo, my work [@Worldline](https://worldline.com/) involves a mix of Advoc
 
 #### Current goals
 
-* ✨ &nbsp; To continuously improve in Data Science, frontend web development (particularly [JAMstack](https://jamstack.org/)) and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes with best practices.
+* ✨ &nbsp; To continuously improve in Data Science, fullstack web development (mostly frontend/[JAMstack](https://jamstack.org/) though) and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes with best practices.
 * 🙃 &nbsp; In my free time I'm probably [building](https://github.com/andfanilo/streamlit-echarts) [Streamlit](https://github.com/andfanilo/streamlit-drawable-canvas) [Components](https://github.com/andfanilo/streamlit-d3-demo) to ease the work of Data Scientists, and **I'm open to ideas/requests !**
 
 #### 
