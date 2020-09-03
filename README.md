@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-I'm Fanilo, my work [@Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering in a tight team of Data Science & Business Intelligence experts 
+I'm Fanilo, my work [@Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead in a tight team of Data Science & Business Intelligence experts 
 
 #### Current goals
 
