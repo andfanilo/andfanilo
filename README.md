@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-I'm Fanilo, I'm on a quest to build attractive Data Science, from framing your use case to collecting/processing the data and showcasing the results on the web. 
+I'm Fanilo, I'm on a quest to building attractive Data Science, from framing your use case to collecting/processing the data and showcasing the results on the web. 
 
 My work [@Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts.
 
