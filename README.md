@@ -10,8 +10,10 @@
   <img align="left" alt="Fanilo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br />
+<br /><br />
+
 I'm Fanilo, I'm on a quest to building attractive Data Science, from framing your use case to collecting/processing the data and showcasing the results on the web. 
+
 
 My work [@Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts.
 
