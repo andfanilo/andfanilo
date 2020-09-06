@@ -10,7 +10,7 @@
   <img align="left" alt="Fanilo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-####
+#### &nbsp;
 
 I'm on a quest to building attractive and thoughtful Data Science, with 7+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps (one day I'll manage with BI tools too). 
 
