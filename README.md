@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-<a href="https://twitter.com/andfnailo">
+<a href="https://twitter.com/andfanilo">
   <img align="left" alt="Fanilo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/andfanilo/">
@@ -27,3 +27,11 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 * 🧑‍💻 &nbsp; I [explore customer datasets](https://github.com/andfanilo/ieee-fraud-detection) for value, [build](https://github.com/andfanilo/cookiecutter-kaggle) [tools](https://github.com/andfanilo/fastapi-vue-crud) to improve our own data projects, and demonstrate our works through talks, workshops and [web demonstrators](https://andfanilo.github.io/quickdraw-minigame)
 * 👥 &nbsp; I teach [Big Data](https://github.com/andfanilo/pyspark-tutorial) and [NoSQL](https://github.com/andfanilo/vagrant-nosql-python) in Lyon to master students in statistics & BI. I also talk at [local meetups](https://www.youtube.com/watch?v=iwdHFssqtIM) and [write tutorials](https://streamlit-components-tutorial.netlify.app/)
 * 👀 &nbsp; You can find me 🏸 on a badminton court playing mixed doubles, 🎹 near a piano trying to improvise over pop songs, or hanging in the [Streamlit community](https://discuss.streamlit.io/).
+
+#### Tech stack
+
+Current :
+
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+</a>
