@@ -30,8 +30,18 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 
 #### Tech stack
 
-Current :
+Current:
 
 <a href="https://www.python.org/">
-  <img align="left" alt="Python" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+  <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+</a>
+<img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+
+#### &nbsp;
+
+Coming soon:
+
+<a href="https://www.gatsbyjs.com/">
+  <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
 </a>
