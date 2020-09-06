@@ -19,7 +19,7 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 #### Current goals
 
 * ✨ &nbsp; To continuously improve in Data Science, fullstack web development (though I try to stick to frontend/[JAMstack](https://jamstack.org/)) and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes with best practices.
-* 🙃 &nbsp; In my free time I'm probably [building](https://github.com/andfanilo/streamlit-echarts) [Streamlit](https://github.com/andfanilo/streamlit-drawable-canvas) [Components](https://github.com/andfanilo/streamlit-d3-demo) to ease the work of Data Scientists, and **I'm open to ideas/requests !**
+* 🙃 &nbsp; [Build](https://github.com/andfanilo/streamlit-echarts) [Streamlit](https://github.com/andfanilo/streamlit-drawable-canvas) [Components](https://github.com/andfanilo/streamlit-d3-demo) to ease the interactive visualization of Data Scientists' work. **I'm open to ideas/requests !**
 
 #### My activities
   
@@ -30,3 +30,4 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 
 #### Tech stack
 
+![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
