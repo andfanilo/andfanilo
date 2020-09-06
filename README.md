@@ -27,7 +27,3 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 * 🧑‍💻 &nbsp; When I can, I [explore customer datasets](https://github.com/andfanilo/ieee-fraud-detection) for value, [build](https://github.com/andfanilo/cookiecutter-kaggle) [tools](https://github.com/andfanilo/fastapi-vue-crud) to improve our own data projects, and demonstrate our works through talks, workshops and [web demonstrators](https://andfanilo.github.io/quickdraw-minigame)
 * 👥 &nbsp; I teach [Big Data](https://github.com/andfanilo/pyspark-tutorial) and [NoSQL](https://github.com/andfanilo/vagrant-nosql-python) in Lyon to master students in statistics & BI. I also talk at [local meetups](https://www.youtube.com/watch?v=iwdHFssqtIM) and [write tutorials](https://streamlit-components-tutorial.netlify.app/)
 * 👀 &nbsp; You can find me 🏸 on a badminton court playing mixed doubles, 🎹 near a piano trying to improvise over pop songs, or hanging in the [Streamlit community](https://discuss.streamlit.io/).
-
-#### Tech stack
-
-![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
