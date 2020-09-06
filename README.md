@@ -1,5 +1,16 @@
 ## Hello :wave:
 
+<a href="https://twitter.com/andfnailo">
+  <img align="left" alt="Fanilo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/andfanilo/">
+  <img align="left" alt="Fanilo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/andfanilo">
+  <img align="left" alt="Fanilo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
 I'm Fanilo, I'm on a quest to building attractive Data Science, from framing your use case to collecting/processing the data and showcasing the results on the web. 
 
 My work [@Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts.
@@ -20,11 +31,3 @@ My work [@Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, 
 * 👀 &nbsp; You can find me 🏸 on a badminton court playing mixed doubles, 🎹 near a piano trying to improvise over pop songs, or hanging in the [Streamlit community](https://discuss.streamlit.io/) as a moderator
   
 </details>
-
-#### Get in touch
-
-<p>
-	<a href="https://github.com/andfanilo"><img src="https://img.shields.io/github/followers/andfanilo.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/andfanilo"><img src="https://img.shields.io/twitter/follow/andfanilo?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/andfanilo"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
