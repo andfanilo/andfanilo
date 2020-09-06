@@ -30,18 +30,39 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 
 #### Tech stack
 
-Current:
+Main:
 
 <a href="https://www.python.org/">
   <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </a>
-<img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<a href="https://jupyter.org/">
+  <img align="left" alt="Jupyter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
+</a>
+<a href="https://www.docker.com/">
+  <img align="left" alt="Docker" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+</a>
+<a href="https://www.jetbrains.com/pycharm/">
+  <img align="left" alt="PyCharm" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
+</a>
+<img align="left" alt="Powerpoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerpoint.svg" />
+
 
 #### &nbsp;
 
-Coming soon:
+Secondary:
 
+<img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="Javascript" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<a href="https://gohugo.io/">
+  <img align="left" alt="Hugo" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />
+</a>
 <a href="https://www.gatsbyjs.com/">
-  <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+  <img align="left" alt="Gastby" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+</a>
+<a href="https://www.11ty.dev/">
+  <img align="left" alt="eleventy" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eleventy.svg" />
 </a>
