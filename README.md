@@ -38,6 +38,18 @@ Main:
 <a href="https://jupyter.org/">
   <img align="left" alt="Jupyter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
 </a>
+<a href="https://pandas.pydata.org/">
+  <img align="left" alt="Pandas" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
+</a>
+<a href="https://spark.apache.org/">
+  <img align="left" alt="Spark" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />
+</a>
+<img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="Javascript" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<a href="https://vuejs.org/">
+  <img align="left" alt="Vuejs" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+</a>
 <a href="https://www.docker.com/">
   <img align="left" alt="Docker" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
@@ -54,9 +66,15 @@ Main:
 
 Secondary:
 
-<img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="Javascript" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<a href="https://d3js.org/">
+  <img align="left" alt="D3" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/d3-dot-js.svg" />
+</a>
+<a href="https://reactjs.org/">
+  <img align="left" alt="React" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+</a>
+<a href="https://svelte.dev/">
+  <img align="left" alt="Svelte" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" />
+</a>
 <a href="https://gohugo.io/">
   <img align="left" alt="Hugo" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />
 </a>
@@ -65,4 +83,10 @@ Secondary:
 </a>
 <a href="https://www.11ty.dev/">
   <img align="left" alt="eleventy" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eleventy.svg" />
+</a>
+<a href="https://www.photoshop.com/en">
+  <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+</a>
+<a href="https://www.adobe.com/products/illustrator.html">
+  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 </a>
