@@ -14,7 +14,7 @@
 
 I'm on a quest to help everyone build attractive and thoughtful Data Science, with 7+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps and BI tools. 
 
-My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts. I'm also a university lecturer in Big Data & NoSQL and a proud member of [Streamlit Creators](https://discuss.streamlit.io/t/introducing-streamlit-creators/6207) and Community Moderator on their [forum](https://discuss.streamlit.io).
+My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts. I'm also a university lecturer in Big Data & NoSQL and a proud member of [Streamlit Creators](https://discuss.streamlit.io/t/introducing-streamlit-creators/6207) and Moderator of their [forum](https://discuss.streamlit.io).
 
 #### Current goals
 
