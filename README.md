@@ -12,13 +12,13 @@
 
 #### &nbsp;
 
-I'm on a quest to help everyone build attractive and thoughtful Data Science, with 7+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps and BI tools. 
+I'm on a quest to help everyone build attractive and thoughtful Data Science, with 8+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps and BI tools. 
 
-My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Product Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts. I'm also a university lecturer in Big Data & NoSQL and a proud member of [Streamlit Creators](https://discuss.streamlit.io/t/introducing-streamlit-creators/6207) and Moderator of their [forum](https://discuss.streamlit.io).
+My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Solutions Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts. I'm also a university lecturer in Big Data & NoSQL and a proud member of [Streamlit Creators](https://discuss.streamlit.io/t/introducing-streamlit-creators/6207) and Moderator of their [forum](https://discuss.streamlit.io).
 
 #### Current goals
 
-* ✨ &nbsp; To continuously improve in Data Science, fullstack web development and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes with best practices.
+* ✨ &nbsp; To continuously improve in Data Science, fullstack web development and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes and production-grade Data Science projects.
 * 🙃 &nbsp; To [build](https://github.com/andfanilo/streamlit-echarts) [Streamlit](https://github.com/andfanilo/streamlit-drawable-canvas) [Components](https://github.com/andfanilo/streamlit-d3-demo) and ease the interactive visualization of Data Scientists' work. **I'm open to ideas/requests !**
 
 #### My activities
