@@ -35,6 +35,9 @@ Main:
 <a href="https://www.python.org/">
   <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </a>
+<a href="https://www.streamlit.io/">
+  <img align="left" alt="Streamlit" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/streamlit.svg" />
+</a>
 <a href="https://jupyter.org/">
   <img align="left" alt="Jupyter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
 </a>
@@ -90,3 +93,7 @@ Secondary:
 <a href="https://www.adobe.com/products/illustrator.html">
   <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
 </a>
+
+#### &nbsp;
+
+<a href="https://www.buymeacoffee.com/andfanilo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
