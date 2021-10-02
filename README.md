@@ -68,9 +68,6 @@ Main:
 
 Secondary:
 
-<a href="https://d3js.org/">
-  <img align="left" alt="D3" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/d3-dot-js.svg" />
-</a>
 <img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="Javascript" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
@@ -83,11 +80,14 @@ Secondary:
 <a href="https://gohugo.io/">
   <img align="left" alt="Hugo" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />
 </a>
-<a href="https://www.photoshop.com/en">
+<a href="https://www.adobe.com/products/photoshop.html">
   <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 </a>
-<a href="https://www.adobe.com/products/illustrator.html">
-  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />
+<a href="https://www.adobe.com/products/xd.html">
+  <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" />
+</a>
+<a href="https://www.adobe.com/products/premiere.html">
+  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 </a>
 
 #### &nbsp;
