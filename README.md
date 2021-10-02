@@ -1,14 +1,18 @@
 ## Hello :wave:
 
 <a href="https://twitter.com/andfanilo">
-  <img align="left" alt="Fanilo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/andfanilo/">
-  <img align="left" alt="Fanilo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/andfanilo">
-  <img align="left" alt="Fanilo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.instagram.com/andfanilo/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCj0aKGrBN6x2_PY0c6RrGNw">
+  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
 
 #### &nbsp;
 
@@ -18,8 +22,9 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 
 #### Current goals
 
-* ✨ &nbsp; To continuously improve in Data Science, fullstack web development and presentation design as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes and production-grade Data Science projects.
-* 🙃 &nbsp; To build Streamlit components and ease the interactive visualization of Data Scientists' work, ex: [streamlit-echarts](https://github.com/andfanilo/streamlit-echarts), [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas), [streamlit-lottie](https://github.com/andfanilo/streamlit-lottie). **I'm open to ideas/requests !**
+* ✨ &nbsp; Continuously improve in Data Science, fullstack web development and design skills as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes and production-grade Data Science projects.
+* 🎥 &nbsp; Consistently produce small video skits and medium sized video tutorials that are entertaining yet educational
+* 🙃 &nbsp; Build Streamlit components and ease the interactive visualization of Data Scientists' work, ex: [streamlit-echarts](https://github.com/andfanilo/streamlit-echarts), [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas), [streamlit-lottie](https://github.com/andfanilo/streamlit-lottie). **I'm open to ideas/requests !**
 
 #### My activities
   
