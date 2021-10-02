@@ -20,22 +20,22 @@ I'm on a quest to help everyone build attractive and thoughtful Data Science, wi
 
 My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel, Solutions Management and Engineering Lead for Data Analytics in a tight team of Data Science & Business Intelligence experts. I'm also a university lecturer in Big Data & NoSQL and a proud member of [Streamlit Creators](https://discuss.streamlit.io/t/introducing-streamlit-creators/6207) and Moderator of their [forum](https://discuss.streamlit.io).
 
-#### Current goals
+### Current goals
 
 * ✨ &nbsp; Continuously improve in Data Science, fullstack web development and design skills as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes and production-grade Data Science projects.
 * 🎥 &nbsp; Consistently produce small video skits and medium sized video tutorials that are entertaining yet educational
 * 🙃 &nbsp; Build Streamlit components and ease the interactive visualization of Data Scientists' work, ex: [streamlit-echarts](https://github.com/andfanilo/streamlit-echarts), [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas), [streamlit-lottie](https://github.com/andfanilo/streamlit-lottie). **I'm open to ideas/requests !**
 
-#### My activities
+### My activities
   
 * 💵 &nbsp; I'm actively involved in elaborating and integrating Data Science / BI features for products, projects and bids internally
 * 🧑‍💻 &nbsp; I [explore customer datasets](https://github.com/andfanilo/ieee-fraud-detection) for value, [build](https://github.com/andfanilo/cookiecutter-kaggle) [tools](https://github.com/andfanilo/fastapi-vue-crud) to improve our own data projects, and demonstrate our works through talks, workshops and [web demonstrators](https://andfanilo.github.io/quickdraw-minigame)
 * 👥 &nbsp; I teach [Big Data](https://github.com/andfanilo/pyspark-tutorial) and [NoSQL](https://github.com/andfanilo/vagrant-nosql-python) in Lyon to master students in statistics & BI. I also talk at [local meetups](https://www.youtube.com/watch?v=iwdHFssqtIM) and [write tutorials](https://streamlit-components-tutorial.netlify.app/)
 * 👀 &nbsp; You can find me 🏸 on a badminton court playing mixed doubles, 🎹 near a piano trying to improvise over pop songs, or hanging in the [Streamlit community](https://discuss.streamlit.io/).
 
-#### Tech stack
+### Tech stack
 
-Main:
+**Main - Python / Data Analytics**
 
 <a href="https://www.python.org/">
   <img align="left" alt="Python" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
@@ -61,12 +61,11 @@ Main:
 <a href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="PyCharm" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 </a>
-<img align="left" alt="Powerpoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerpoint.svg" />
 
 
 #### &nbsp;
 
-Secondary:
+**Secondary - Web development / Audio & Video Production / Presentation design**
 
 <img align="left" alt="HTML" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
@@ -89,6 +88,11 @@ Secondary:
 <a href="https://www.adobe.com/products/premiere.html">
   <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 </a>
+<a href="https://www.ableton.com/en/live/">
+  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />
+</a>
+<img align="left" alt="Powerpoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerpoint.svg" />
+
 
 #### &nbsp;
 
