@@ -20,7 +20,7 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 ### Current goals
 
 * ✨ &nbsp; Continuously improve in Data Science, fullstack web development and design skills as means to promote the Data Analytics field to every type of business and level of public expertise, through teaching, training and leading the implementation of prototypes and production-grade Data Science projects.
-* 🎥 &nbsp; Consistently produce [Youtube video tutorials]([https://www.youtube.com/c/FaniloAndrianasolo](https://www.youtube.com/@andfanilo)) that are entertaining yet educational
+* 🎥 &nbsp; Consistently produce [Youtube video tutorials](https://www.youtube.com/@andfanilo) that are entertaining yet educational
 * 🙃 &nbsp; Build Streamlit components and ease the interactive visualization of Data Scientists' work, ex: [streamlit-echarts](https://github.com/andfanilo/streamlit-echarts), [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas), [streamlit-lottie](https://github.com/andfanilo/streamlit-lottie). **I'm open to ideas/requests !**
 
 ### My activities
