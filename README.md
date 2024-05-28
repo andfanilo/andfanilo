@@ -1,16 +1,5 @@
 ## Hello :wave:
 
-<a href="https://twitter.com/andfanilo">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/andfanilo/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/@andfanilo">
-  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-
 #### &nbsp;
 
 I'm on a quest to help everyone build attractive and thoughtful Data Science, with 8+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps and BI tools. 
@@ -89,8 +78,3 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
   <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />
 </a>
 <img align="left" alt="Powerpoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerpoint.svg" />
-
-
-#### &nbsp;
-
-<a href="https://www.buymeacoffee.com/andfanilo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
