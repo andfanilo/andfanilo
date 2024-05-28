@@ -1,4 +1,4 @@
-## I'm Fanilo, I want tohelp you get your Data Projects noticed :wave:
+## :cherry_blossom: I'm Fanilo, I want to help you get your Data Projects noticed
 
 I'm on a quest to help everyone build attractive and thoughtful Data Science, with 10+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps and BI tools. 
 
@@ -42,9 +42,6 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="VSCode" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 </a>
-<a href="https://www.jetbrains.com/pycharm/">
-  <img align="left" alt="PyCharm" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
-</a>
 
 
 #### &nbsp;
@@ -67,12 +64,12 @@ My work at [Worldline](https://worldline.com/) involves a mix of Advocacy/DevRel
   <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 </a>
 <a href="https://www.adobe.com/products/xd.html">
-  <img align="left" alt="Photoshop" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" />
+  <img align="left" alt="After Effects" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeaftereffects.svg" />
 </a>
 <a href="https://www.adobe.com/products/premiere.html">
-  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
+  <img align="left" alt="Premiere" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
 </a>
 <a href="https://www.ableton.com/en/live/">
-  <img align="left" alt="Illustrator" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />
+  <img align="left" alt="Ableton" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />
 </a>
 <img align="left" alt="Powerpoint" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerpoint.svg" />
