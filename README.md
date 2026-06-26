@@ -2,7 +2,7 @@
 
 I'm on a quest to help everyone build attractive and thoughtful Data Science, with 12+ years experience in framing business cases for analytics, collecting/processing/exploring your data and showcasing the results in web apps and BI tools. 
 
-My work at [Worldline](https://worldline.com/) involves a mix of Data/AI Strategy, Advocacy/DevRel and Solutions Management. 
+My work at [Magellan](https://www.magellangroup.eu/) involves a mix of Data/AI Strategy, Advocacy/DevRel and Solutions Management. 
 
 I'm also a university lecturer in MLOps, Big Data & NoSQL, and a member of the [Streamlit Creators](https://discuss.streamlit.io/t/introducing-streamlit-creators/6207)  Ambassador Program.
 
